@@ -1,0 +1,2 @@
+Если программа выдает ошибку то ви доолжни поменят путь где будет сохранятся файл  в 54 строке и 58 (\Foto.txt) не изменять.
+If the program gives an error, then you must change the path where the file will be saved in line 54 and 58 (\Foto.txt) do not change.
